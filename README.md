@@ -37,7 +37,6 @@
 		- 分别考虑相加的两个链表长度相同和不同的情况
 		- 代码块的复用，避免冗长
 </code></pre>
-<<<<<<< HEAD
 
 4 . Zigzag-Conversion
 <pre><code>
