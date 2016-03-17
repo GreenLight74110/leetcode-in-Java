@@ -37,6 +37,7 @@
 		- 分别考虑相加的两个链表长度相同和不同的情况
 		- 代码块的复用，避免冗长
 </code></pre>
+<<<<<<< HEAD
 
 4 . Zigzag-Conversion
 <pre><code>
@@ -65,3 +66,5 @@
 	要点：	
 		- 注意int溢出时的处理方法，可用long来暂时代替，与Integer.MAX_VALUE或Integer.MIN_VALUE比较
 </code></pre>
+=======
+>>>>>>> 7a9d5a126a15aa180cc99e3c55f291f9426864d2
